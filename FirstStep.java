@@ -1,9 +1,9 @@
 /*************************************************
- * This is the Text-printing program.
+ * This is a Text-printing program. -----> This is ia command line.
  * 
  *  The program shows how to use print command.
  *
- * @author Burak Karacan
+ * @author Burak Karacan -----> This is a command line too and pleasure to meet you.
  *
  *************************************************/
 public class FirstStep { // start class FirstStep
