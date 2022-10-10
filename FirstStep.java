@@ -1,5 +1,5 @@
 /*************************************************
- * This is a Text-printing program. -----> This is ia command line.
+ * This is a Text-printing program. -----> This is a command line.
  * 
  *  The program shows how to use print command.
  *
