@@ -25,7 +25,7 @@ public class AddingIntegers {
 			
 			int secondNumber = input.nextInt();
 			
-			System.out.printf("%s%s%s%s%s%s%d", "TOTAL", " ", "VALUE", " ", "IS =", " ",(firstNumber + secondNumber));
+			System.out.printf("TOTAL VALUE IS = %d", (firstNumber + secondNumber));
 		}
 
 	}
